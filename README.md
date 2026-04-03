@@ -22,13 +22,6 @@
 ## 配置内容
 
 ```ghostty
-# ============================================
-# Bruce's Ghostty Config - 2026 Claude 极致稳定版
-# 作者：BruceBlue
-# 专为 Claude Code 优化，零报错、左右分屏、一键放大
-# 重载快捷键：Cmd + Shift + ,
-# ============================================
-
 # --- Typography ---
 font-family = "Maple Mono NF CN"
 font-size = 14
